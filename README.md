@@ -15,11 +15,13 @@
 <br >
 
 ## Description
+
 This repository is for training, through interview questions on: CSS (SASS, Bootstrap, TailwindCSS) | JavaScript | React (Next.js) | Typescript | Node (Nest.js) | PHP (Laravel | WordPress) | Python | Data Science.
 
 <br >
 
 ## Technologies
+
 - [CSS, TailwindCSS, Bootstrap](./technologies/css/README.md)
 - [JavaScript](./technologies/javascript/README.md)
 - [Laravel](./technologies/laravel/README.md)
